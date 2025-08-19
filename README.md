@@ -42,5 +42,4 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 I’m a **Full Stack Developer** passionate about building clean, scalable applications with **Java + Spring Boot** on the backend and **JS + React** on the frontend.  
 
 📫 Reach me at: [your.email@example.com](mailto:restinpeace869@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/aryan-kumar-651b7926a)  
 📂 GitHub: [github.com/your-username](https://github.com/RIP0SIS)
