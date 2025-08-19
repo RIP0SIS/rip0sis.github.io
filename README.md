@@ -23,7 +23,7 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 
 | Amazon Clone (Frontend) |
 |--------------------------|
-| ![Amazon Screenshot](image.png) |
+| ![Amazon Screenshot](./image.png) |
 
 ---
 
