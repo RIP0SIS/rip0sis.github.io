@@ -23,7 +23,7 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 
 | Amazon Clone (Frontend) |
 |--------------------------|
-| ![Amazon Screenshot](image.png) |
+![A screenshot of the Amazon clone project interface](image.png)
 
 ---
 
@@ -41,5 +41,5 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 
 I’m a **Full Stack Developer** passionate about building clean, scalable applications with **Java + Spring Boot** on the backend and **JS + React** on the frontend.  
 
-📫 Reach me at: [your.email@example.com](mailto:restinpeace869@gmail.com)  
-📂 GitHub: [github.com/your-username](https://github.com/RIP0SIS)
+📫 Reach me at: [Link](mailto:restinpeace869@gmail.com)  
+📂 GitHub: [Link](https://github.com/RIP0SIS)
