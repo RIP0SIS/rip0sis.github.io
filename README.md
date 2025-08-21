@@ -1,7 +1,7 @@
 # 🌐 Riposis
 
 Welcome to **Riposis.me** — my personal portfolio and project showcase.  
-Here you’ll find my featured full-stack and frontend projects, built with **Spring Boot, React, Hibernate, and more**.
+Here you’ll find my featured full-stack and frontend projects, built with **Spring Boot, JS, Hibernate, and more**.
 
 ---
 
@@ -9,7 +9,7 @@ Here you’ll find my featured full-stack and frontend projects, built with **Sp
 
 ### 🛒 Amazon Clone (Frontend Project)
 A frontend clone of Amazon’s product listing page with cart functionality.  
-- ⚛️ Built with **React + JavaScript**  
+- ⚛️ Built with **JavaScript**  
 - 🌐 Integrated with external REST APIs  
 - 🛍️ Features: product listing, search, cart, checkout flow  
 - 🎨 Responsive design with Bootstrap  
