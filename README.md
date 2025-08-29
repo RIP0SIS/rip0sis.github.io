@@ -36,9 +36,9 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 - **Docs & Tools:** OpenAI, Git, VS Code, IntelliJ
 
 ---
-#GAME
+# 🎮 Game
 
-[Link](game.html)
+[Play Here](game.html)
 
 ---
 
