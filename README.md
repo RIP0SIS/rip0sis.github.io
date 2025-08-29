@@ -38,7 +38,7 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 ---
 #GAME
 
-[Link](Game.html)
+[Link](game.html)
 
 ---
 
