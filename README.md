@@ -9,7 +9,7 @@ Here you’ll find my featured full-stack and frontend projects, built with **Sp
 
 ### 🛒 Amazon Clone (Frontend Project)
 A frontend clone of Amazon’s product listing page with cart functionality.  
-- ⚛️ Built with **JavaScript**  
+- 🟨JS Built with **JavaScript**  
 - 🌐 Integrated with external REST APIs  
 - 🛍️ Features: product listing, search, cart, checkout flow  
 - 🎨 Responsive design with Bootstrap  
@@ -30,10 +30,15 @@ A frontend clone of Amazon’s product listing page with cart functionality.
 ## 🛠️ Tech Stack
 
 - **Backend:** Spring Boot, Spring Security, JPA/Hibernate  
-- **Frontend:** React, JavaScript, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript
 - **Database:** MySQL   
 - **Testing:** Jasmine, Mockito  
-- **Docs & Tools:** Swagger/OpenAPI, Git, VS Code, IntelliJ  
+- **Docs & Tools:** OpenAI, Git, VS Code, IntelliJ
+
+---
+#GAME
+
+[Link](index.html)
 
 ---
 
