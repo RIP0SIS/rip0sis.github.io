@@ -125,6 +125,15 @@ Consistent error response using `@ControllerAdvice`.
 
 ---
 
+
+## 🧪 Testing
+
+- Wrote **JUnit tests** for the repository layer using **@DataJpaTest** to verify persistence behavior in an **isolated in-memory H2 database**.
+- Tested core JPA operations such as **save**, **find**, and **delete**, along with **custom query methods** like `findByUsername`.
+- Ensured repository correctness independently of web and service layers.
+
+---
+
 ## ▶️ Running the Application
 
 ### Prerequisites
